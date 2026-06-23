@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import Profile from "/trustees/Dilaludin/Profile.jpg";
+import Profile from "/trustees/Dilaludin/Profile.png";
 
 function Dilaludin() {
   const responsibilities = [
@@ -110,12 +110,6 @@ function Dilaludin() {
 
           <div className="grid lg:grid-cols-2 gap-16 items-center">
 
-            <img
-              src="/trustees/Dilaludin/1.jpg"
-              alt="Responsibilities"
-              className="rounded-3xl shadow-xl"
-            />
-
             <div>
 
               <span className="text-violet-700 font-semibold uppercase tracking-wider">
@@ -152,6 +146,12 @@ function Dilaludin() {
 
             </div>
 
+            <img
+              src="/trustees/Dilaludin/1.jpg"
+              alt="Responsibilities"
+              className="rounded-3xl shadow-xl"
+            />
+
           </div>
 
         </div>
@@ -160,6 +160,12 @@ function Dilaludin() {
         <div className="max-w-7xl mx-auto px-6">
 
           <div className="grid lg:grid-cols-2 gap-16 items-center">
+
+            <img
+              src="/trustees/Dilaludin/4.jpg"
+              alt="Vision"
+              className="rounded-3xl shadow-xl"
+            />
 
             <div>
 
@@ -184,11 +190,7 @@ function Dilaludin() {
 
             </div>
 
-            <img
-              src="/trustees/Dilaludin/4.jpg"
-              alt="Vision"
-              className="rounded-3xl shadow-xl"
-            />
+            
 
           </div>
 

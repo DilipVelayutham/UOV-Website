@@ -18,7 +18,7 @@ export const trustees = [
     name: "Mr. R. Dilaludin, B.Sc.",
     role: "General Secretary",
     category: "executive",
-    image: "/trustees/Dilaludin/Profile.jpeg",
+    image: "/trustees/Dilaludin/Profile.png",
   },
   {
     slug: "dilip-velayutham",
@@ -30,22 +30,29 @@ export const trustees = [
   {
     slug: "aravindh",
     name: "Mr. S. Aravindh, B.Com.",
-    role: "Tressurer & Youth Affairs Secretary",
+    role: "Tressurer & Secretary - Youth Affairs",
     category: "executive",
     image: "/trustees/Aravindh/Profile.jpeg",
+  },
+  {
+    slug: "jagan",
+    name: "Mr. S. Jagan",
+    role: "Secretary - Youth Action",
+    category: "executive",
+    image: "/trustees/Jagan/Profile.png",
   },
   {
     slug: "sanjay",
     name: "Mr. A. Sanjay Sharma, B.C.A.",
     role: "Director - Public Relations & Media Affairs",
-    category: "other",
+    category: "executive",
     image: "/trustees/sanjay.jpeg",
   },
   {
     slug: "lathika",
     name: "Miss. Lathika, B.B.A., M.B.A.",
     role: "Director - Projects & Strategic Initiatives",
-    category: "other",
+    category: "executive",
     image: "/trustees/lathika.png"
   },
   {

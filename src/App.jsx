@@ -23,6 +23,7 @@ import Dilaludin from "./pages/trustees/Dilaludin";
 import Dilip from "./pages/trustees/Dilip";
 import DilipVelayutham from "./pages/trustees/Dilip";
 import Aravindh from "./pages/trustees/Aravindh";
+import Jagan from "./pages/trustees/Jagan";
 import Sanjay from "./pages/trustees/Sanjay";
 import Lathika from "./pages/trustees/Lathika";
 import Mani from "./pages/trustees/Mani";
@@ -53,6 +54,7 @@ function App() {
         <Route path="/trustees/dilaludin" element={<Dilaludin />} />
         <Route path="/trustees/dilip-velayutham" element={<DilipVelayutham />} />
         <Route path="/trustees/aravindh" element={<Aravindh />} />
+        <Route path="/trustees/jagan" element={<Jagan />} />
         <Route path="/trustees/sanjay" element={<Sanjay />} />
         <Route path="/trustees/lathika" element={<Lathika />} />
         <Route path="/trustees/mani" element={<Mani />} />

@@ -13,7 +13,7 @@ function ContactInfo() {
     },
     {
       icon: <FaPhoneAlt />,
-      title: "YA Trustee - S Aravindh",
+      title: "YA Secretary - S Aravindh",
       value: "+91 93607 49442"
     },
     {

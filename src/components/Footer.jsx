@@ -1,4 +1,5 @@
 import { FaEnvelope, FaInstagram, FaFacebook, FaTwitter } from "react-icons/fa";
+import { FaXTwitter } from "react-icons/fa6";
 
 function Footer() {
   return (
@@ -64,7 +65,7 @@ function Footer() {
 
               <a href="https://www.instagram.com/prabhakaran_me?igsh=dngzcXJ1Znh4dTFl"><FaInstagram className="cursor-pointer hover:text-violet-300" /></a>
               <a href="https://www.facebook.com/profile.php?id=61590752638427"><FaFacebook className="cursor-pointer hover:text-violet-300" /></a>
-              <a href="https://x.com/uov_trust"><FaTwitter className="cursor-pointer hover:text-violet-300" /></a>
+              <a href="https://x.com/uov_trust"><FaXTwitter className="cursor-pointer hover:text-violet-300" /></a>
 
             </div>
 
