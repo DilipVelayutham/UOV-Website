@@ -9,7 +9,7 @@ function ImpactStats() {
   const stats = [
     {
       icon: <FaUsers />,
-      number: 10,
+      number: 19,
       suffix: "",
       title: "Management Board Members",
     },

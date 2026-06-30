@@ -36,7 +36,7 @@ export const trustees = [
   },
   {
     slug: "jagan",
-    name: "Mr. S. Jagan",
+    name: "Mr. S. Jagan, M.B.A.",
     role: "Secretary - Youth Action",
     category: "executive",
     image: "/trustees/Jagan/Profile.png",
@@ -70,10 +70,66 @@ export const trustees = [
     image: "/trustees/brahmanirani.jpeg",
   },
   {
+    slug: "ees",
+    name: "Mrs. R Eswari, M.Sc., M.Ed.",
+    role: "Trustee - Girl's Empowerment & Student Mentorship wing",
+    category: "other",
+    image: "/trustees/ees.png"
+  },
+  {
     slug: "murali",
     name: "Mr. Muralishankar, M.Sc., M.Phil., B.Ed.",
     role: "Trustee - Education & Skill Development",
     category: "other",
-    image: "/trustees/murali.jpeg",
+    image: "/trustees/murali.png",
+  },
+  {
+    slug: "anbu",
+    name: "Mr. S Anbazhagan, B.E., L.L.B., AIBE",
+    role: "Trustee - Qualified Legal Advisor",
+    category: "other",
+    image: "/trustees/Anbazhagan.png"
+  },
+  {
+    slug: "ramesh",
+    name: "Mr. S Ramesh, M.Sc., B.Ed.",
+    role: "Trustee - Social Justice and Equality advisor",
+    category: "other",
+    image: "/trustees/ramesh.png"
+  },
+  {
+    slug: "boj",
+    name: "Mr. K Bojarajan, M.Sc., M.Phil., M.Ed., PGDSA",
+    role: "Trustee - Diversity, Equity and Inclusion (DEI) Advisor",
+    category: "other",
+    image: "/trustees/bojarajan.png"
+  },
+  {
+    slug: "manivas",
+    name: "Mr. S Manivasagam",
+    role: "Trustee",
+    category: "other",
+    image: "/trustees/manivas.png"
+  },
+  {
+    slug: "ads",
+    name: "Miss. S Aanandheeswari",
+    role: "Trustee - Differently abled empowerment and entrepreneurship",
+    category: "other",
+    image: "/trustees/ads.png"
+  },
+  {
+    slug: "charles",
+    name: "Mr. A Charless, B.Sc.",
+    role: "Trustee - Sports Department",
+    category: "other",
+    image: "/trustees/charles.png"
+  },
+  {
+    slug: "kannan",
+    name: "Dr. S Kannan, PT",
+    role: "Trustee - Medical Health Care Wing",
+    category: "other",
+    image: "/trustees/kannan.png"
   }
-];
+];    

@@ -16,6 +16,7 @@ import Membership from "./pages/Membership";
 import Donate from "./pages/Donate";
 
 import RootsOfUOV from "./pages/gallery collections/RootsOfUOV";
+import VoiceOfPeople from "./pages/gallery collections/VoiceOfPeople";
 
 import Prabhakaran from "./pages/trustees/prabhakaran";
 import Seethalakshmi from "./pages/trustees/Seethalakshmi";
@@ -48,6 +49,7 @@ function App() {
         <Route path="/donate" element= {<Donate />} />
 
         <Route path="/gallery/roots-of-uov" element={<RootsOfUOV />} />
+        <Route path="/gallery/voice-of-people" element={<VoiceOfPeople />} />
 
         <Route path="/trustees/prabhakaran" element={<Prabhakaran />} />
         <Route path="/trustees/seetha-lakshmi" element={<Seethalakshmi />} />
