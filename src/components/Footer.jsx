@@ -71,6 +71,11 @@ function Footer() {
 
           </div>
 
+          <div>
+              <img src="dv-logo.png" alt="DV Logo" className="mt-6 w-32" />
+              <p>&nbsp;Created by DV Techs</p>
+          </div>
+
         </div>
 
         <div className="border-t border-violet-800 mt-12 pt-6 text-center text-gray-400">
